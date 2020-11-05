@@ -1,0 +1,3 @@
+This is a Dataset is produced by Dht11 sensors using them inside a minature Greenhouse,
+the fault values has been removed and each value represents the measure of Air Temperature,Humitidy,Soil Temperature
+every 3 minutes. The physical location of the GreenHouse was in an open space with good airflow and sunlight.
